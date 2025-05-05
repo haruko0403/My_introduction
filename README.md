@@ -5,6 +5,4 @@ It's also possible that my account was suspended due to being hacked. However, d
 
 For sharing my future code, I'll focus more on video tutorials, images, and articles. After all, losing a 5-year-old account has caused me significant losses.
 
-Even with my new account, my uploads are still restricted - I can only upload certain things. It's clearly a misunderstanding, and I'm still in communication with GitHub support, but I'm not sure if I'll ever get my original account back. 
-
 As an individual user, I feel pretty helpless in this situation. Looks like I might have to pivot to creating video tutorials instead. Time to learn from those Indian programming YouTubers! [laughing]
