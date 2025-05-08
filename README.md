@@ -1,8 +1,8 @@
 # My_introduction
-On April 30, 2025, I lost my GitHub account that I had built up over 5 years since 2019 maybe due to certain US policy reasons. Since I never imagined I would be suspended, and my appeal was ignored, I lost 90% of my previous projects and materials. Out of trust in GitHub, I didn't keep many local backups. This is my new account.
+The original account's permissions have been restored. Going forward, this account will serve as a backup account and regularly back up the contents of my primary account.
 
-It's also possible that my account was suspended due to being hacked. However, despite multiple appeals, I have yet to receive any response from GitHub. Because of this, I've decided to upload what code I still have saved locally. 
+https://github.com/houikkei
 
-For sharing my future code, I'll focus more on video tutorials, images, and articles. After all, losing a 5-year-old account has caused me significant losses.
+For sharing my future code, I'll focus more on video tutorials, images, and articles. 
 
-As an individual user, I feel pretty helpless in this situation. Looks like I might have to pivot to creating video tutorials instead. Time to learn from those Indian programming YouTubers! [laughing]
+As an individual user, I might have to pivot to creating video tutorials instead. Time to learn from those Indian programming YouTubers! [laughing]
